@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./src/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <h1>☀️CINE DE VERANO☀️</h1>
+    </nav>
+   <button onclick="printMovies()">Peliculas Recomendadas</button>
+<div class="carousel-wrapper">
+  <button onclick="scrollCarousel(-1)" class="scroll-btn">‹</button>
+  <div class="carousel" id="carousel"></div>
+  <button onclick="scrollCarousel(1)" class="scroll-btn">›</button>
+</div>
+    <form id="MovieForm">
+    <h2>¡Ingresa tu película favorita aqui!</h2>
+
+    <input type="text" id="title" placeholder="Pelicula a ingresar" required>
+    <input type="text" id="actors" placeholder="Actors" required>
+    <input type="text" id="synopsis" placeholder="Synopsis" required>
+    <input type="text" id="genre" placeholder="Genre" required>
+    <input type="text" id="rating" placeholder="Rating" required>
+
+
+    <button type="submit">❤️ Agregar tu película favorita ❤️</button>
+    </form>
+    <footer>
+  <p>2025 🎬☀️Cine de VERANO☀️🎬 | Valentina Montilla Factoria-F5</p>
+</footer>
+    <script src="./src/services.js"></script>
+</body>
+</html>

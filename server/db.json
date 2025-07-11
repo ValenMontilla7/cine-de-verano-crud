@@ -1,0 +1,70 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Toy Story 3",
+      "actors": "Tom Hanks, Tim Allen",
+      "synopsis": "Andy se prepara para ir a la universidad y sus juguetes terminan accidentalmente donados a una guardería.",
+      "gender": "Animación",
+      "rating": "8.3"
+      
+    },
+    {
+      "id": "2",
+      "title": "El Resplandor",
+      "actors": "Jack Nicholson, Shelley Duvall",
+      "synopsis": "Un escritor y su familia se mudan a un hotel aislado donde fuerzas sobrenaturales afectan su cordura.",
+      "gender": "Terror",
+      "rating": "8.4"
+    },
+    {
+      "id": "3",
+      "title": "Coco",
+      "actors": "Anthony Gonzalez, Gael García Bernal",
+      "synopsis": "Un niño mexicano viaja al mundo de los muertos para descubrir los secretos de su familia y seguir su pasión por la música.",
+      "gender": "Animación",
+      "rating": "8.4"
+      
+    },
+    {
+      "id": "4",
+      "title": "El Origen",
+      "actors": "Leonardo DiCaprio, Joseph Gordon-Levitt",
+      "synopsis": "Un ladrón especializado en robar secretos del subconsciente a través de los sueños planea realizar la misión inversa: implantar una idea.",
+      "gender": "Acción",
+      "rating": "8.8"
+    },
+    {
+    "id": "5",
+    "title": "El aro",
+    "actors": "Naomi Watts, Martin Henderson",
+    "synopsis": "Una periodista investiga una cinta de video maldita: quien la ve, muere a los siete días.",
+    "gender": "Terror, Suspenso",
+    "rating": "8.3"
+  },
+  {
+    "id": "6",
+    "title": "Megamente",
+    "actors": "Jonah Hill, Brad Pitt",
+    "synopsis": "Un supervillano azul derrota a Metro Man, pero tras matarlo se aburre y crea un nuevo héroe que se sale de control.",
+    "gender": "Animación, Comedia, ",
+    "rating": "8.9"
+  },
+  {
+    "id": "7",
+    "title": "La razón de estar contigo",
+    "actors": "Josh Gad, Juliet Rylance",
+    "synopsis": "Un perro reencarna varias veces para hallar su propósito y enseñar amor a sus dueños.",
+    "gender": "Comedia, Drama",
+    "rating": "9.1"
+  },
+  {
+    "id": "8",
+    "title": "El pianista",
+    "actors": "Adrien Brody, Thomas Kretschmann",
+    "synopsis": "Un pianista judío sobrevive oculto en el gueto de Varsovia durante la Segunda Guerra Mundial.",
+    "gender": "Drama, Biografía, Bélico",
+    "rating": "9.9"
+  }
+  ]
+}
